@@ -3,6 +3,12 @@ We examine private browsing artifacts in RAM dumps. Is it really private?
 
 ![Teaser](media/scenarioB_chrome_memory.png)
 
+[Alexandros Lattas](https://alexlattas.com)<sup>1</sup>,
+[Diomedis Spinellis](https://www2.dmst.aueb.gr/dds/)<sup>1</sup>
+<br/>
+<sup>1</sup>Business Analytics Lab, AUEB
+<br/>
+
 ## Overview
 In this toy study, we examine whether it is possible to recover the URLs of websites visited with various browsers, using Private Browsing mode (also called Ingognito).
 
